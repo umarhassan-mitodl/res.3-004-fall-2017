@@ -1,0 +1,70 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 51d77c2d-d13f-45ce-e761-8d429cebc078
+  name: Overview
+  pageRef: /pages/overview
+  weight: 10
+- identifier: 912fc084-9e83-2bfd-38af-df58a71a8917
+  name: Student Projects by Year
+  pageRef: /pages/student-projects-by-year/
+  weight: 20
+- identifier: faf869f8-afdd-f72b-42b0-a478ed652c8c
+  name: 2017 MIT Student Projects
+  pageRef: /pages/student-projects-by-year/2017-MIT/
+  parent: 912fc084-9e83-2bfd-38af-df58a71a8917
+  weight: 30
+- identifier: 172a9af2-383b-aa0a-4e10-2ef1208f2781
+  name: 2017 EPFL Student Projects
+  pageRef: /pages/student-projects-by-year/EPFL2017/
+  parent: 912fc084-9e83-2bfd-38af-df58a71a8917
+  weight: 40
+- identifier: c97327e3-f58e-5c5e-cfe5-c9199c8b02d5
+  name: 2015 MIT Student Projects
+  pageRef: /pages/student-projects-by-year/2015-MIT/
+  parent: 912fc084-9e83-2bfd-38af-df58a71a8917
+  weight: 50
+- identifier: 831df858-8530-1907-9c4d-adae1aacd80b
+  name: 2012 MIT Student Projects
+  pageRef: /pages/student-projects-by-year/2012-MIT/
+  parent: 912fc084-9e83-2bfd-38af-df58a71a8917
+  weight: 60
+- identifier: f62d5df8-3934-2533-e022-8b16ea71313c
+  name: Student Projects by Topic
+  pageRef: /pages/student-projects-by-topic/
+  weight: 70
+- identifier: fbbb38c6-f4b8-04df-878f-a67586e06b71
+  name: Crystallography and Structure
+  pageRef: /pages/student-projects-by-topic/crystallography-and-structure
+  parent: f62d5df8-3934-2533-e022-8b16ea71313c
+  weight: 80
+- identifier: e9e09d16-84ed-ad0e-c124-bfc6f520e5af
+  name: Energetics and Thermodynamics
+  pageRef: /pages/student-projects-by-topic/energetics-and-thermodynamics
+  parent: f62d5df8-3934-2533-e022-8b16ea71313c
+  weight: 90
+- identifier: 402b1ba0-3dd1-a8e3-7f78-9f8de895cded
+  name: Experimental Techniques
+  pageRef: /pages/student-projects-by-topic/experimental-techniques
+  parent: f62d5df8-3934-2533-e022-8b16ea71313c
+  weight: 100
+- identifier: 209f8d49-0453-6f95-81ac-455c8420af55
+  name: Heat and Mass Transfer
+  pageRef: /pages/student-projects-by-topic/heat-and-mass-transfer
+  parent: f62d5df8-3934-2533-e022-8b16ea71313c
+  weight: 110
+- identifier: 3b1791fa-2707-339a-9edd-41e8682ea48b
+  name: Mechanical Properties
+  pageRef: /pages/student-projects-by-topic/mechanical-properties
+  parent: f62d5df8-3934-2533-e022-8b16ea71313c
+  weight: 120
+- identifier: e82bf961-74a9-394b-a378-a97107a3ba23
+  name: Optical Properties
+  pageRef: /pages/student-projects-by-topic/optical-properties
+  parent: f62d5df8-3934-2533-e022-8b16ea71313c
+  weight: 130
+- identifier: daa1261b-8ee9-e138-1f02-05eb7571bd3a
+  name: Quantum, Magnetic, and Electronic Properties
+  pageRef: /pages/student-projects-by-topic/quantum-magnetic-and-electronic-properties
+  parent: f62d5df8-3934-2533-e022-8b16ea71313c
+  weight: 140

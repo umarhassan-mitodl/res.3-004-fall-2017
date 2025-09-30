@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "legacy_uid": "fa822d93-fe8b-1a86-b341-08661bcc92d2",
+  "instructors": {
+    "content": [
+      "2b564674-83e7-2355-c87b-0e1734d4c8ee"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "75b0d8cb-dd3a-25e7-1146-523499c3975c",
+    "website": "res-3-004-visualizing-materials-science-fall-2017"
+  },
+  "course_title": "Visualizing Materials Science",
+  "hide_download": true,
+  "course_description": "This resource is a collection of student tutorial videos that explore various materials science and engineering topics using visualizations in the Wolfram Mathematica programming system.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.3-004",
+  "course_image_thumbnail": {
+    "content": "39ed4168-9c07-aab1-0200-6483711fa96c",
+    "website": "res-3-004-visualizing-materials-science-fall-2017"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Tutorial Videos",
+    "Projects with Examples"
+  ],
+  "site_uid": "244f0f8b-53a0-4e63-a68f-99c30069eba7",
+  "site_short_id": "res.3-004-fall-2017",
+  "site_url_path": "courses/res-3-004-visualizing-materials-science-fall-2017",
+  "title": "Course Metadata"
+}
